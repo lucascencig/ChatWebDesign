@@ -25,6 +25,7 @@ const ButtonSvg = (white) => (
           fill="white"
           fillRule="nonzero"
           points="100 0 100 44 0 44 0 0"
+
         />
       ) : (
         <>
